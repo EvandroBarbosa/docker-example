@@ -18,4 +18,4 @@ clone o repository acesse o diretório do projeto via terminal e execute o coman
   docker-compose up
 
 ```
-a e é so acessar a url http:localhost:8888
+a e é so acessar a url http://localhost:8888
